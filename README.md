@@ -24,7 +24,7 @@ Grant applications will be numbered (G#) in the [Issues]() section and also disp
 
 |  #  | Grant Name | Has there been a vote? | Voting Page | Accepted |
 | --- |        ---        |       ---       |     ---     |    ---   |
-| [G1](https://github.com/Souptacular/grants-template/issues/1)  |     [Video Demo](https://github.com/Souptacular/grants-template/issues/1)    |       Yes       |  [Click Here](https://github.com/Souptacular/grants-template/issues/2) |    Yes   |
+| [G1](https://github.com/Souptacular/grants-template/issues/1)  |     [Video Demo](https://github.com/Souptacular/grants-template/issues/1)    |       No       |  [Click Here](https://github.com/Souptacular/grants-template/issues/2) |    No   |
 
 Voting is done at the convenience of the comittee memebers and confirmed during recorded committee meetings. Voting is done in the issues labeled "G# - VOTING" and can be seen in the table above. Comittmee members can vote one of three ways:
 - Thumbs up emoji to signal you want to approve the grant.
