@@ -29,6 +29,5 @@ Grant applications will be numbered (G#) in the [Issues]() section and also disp
 Voting is done at the convenience of the comittee memebers and confirmed during recorded committee meetings. Voting is done in the issues labeled "G# - VOTING" and can be seen in the table above. Comittmee members can vote one of three ways:
 - Thumbs up emoji to signal you want to approve the grant.
 - Thumbs down emoji to signal you do not want to approve the grant.
-- Question mark emoji to signal that you have outstanding questions that need to be answered before you can vote. These questions can be asked in the issue and be addressed at comittee meetings. After your questions have been answer please change your emoji reaction to a thumbs up or down.
 
 The voting issue and the table above are updated to reflect the results of the vote (after being certified in the comittee meeting) and the issue is closed once a decision has been made.
